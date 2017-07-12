@@ -1,0 +1,9 @@
+Income,Age,Education,Marital Status,Usage
+Low,Old,University,Married,Low
+Low,Old,High School,Married,Low
+Medium,Young,College,Single,Medium
+Medium,Young,College,Married,Medium
+Medium,Old,High School,Single,Low
+High,Young,University,Single,High
+High,Young,College,Single,Medium
+High,Old,University,Single,High

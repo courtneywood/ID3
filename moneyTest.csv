@@ -1,0 +1,15 @@
+risk,collateral,income,debt
+high,none,$0 to $15K,high
+high,none,$15K to $35K,high
+moderate,none,$15K to $35K,low
+high,none,$0 to $15K,low
+low,none,over $35K,low
+low,adequate,over $35K,low
+high,none,$0 to $15K,low
+moderate,adequate,over $35K,low
+low,none,over $35K,low
+low,adequate,over $35K,high
+high,none,$0 to $15K,high
+moderate,none,$15K to $35K,high
+low,none,over $35K,high
+high,none,$15K to $35K,high

@@ -1,0 +1,12 @@
+Fullness,Bin1,Bin2,Bin3,Money,Bin4,Type,Num
+Some,Nope,Yeah,1,$$$,3,French,0-10
+Full,Nope,Yeah,1,$,3,Thai,30-60
+Some,Yeah,Nope,1,$,3,Burger,0-10
+Full,Nope,Yeah,2,$,3,Thai,10-30
+Full,Nope,Yeah,2,$$$,3,French,>60
+Some,Yeah,Nope,1,$$,4,Italian,0-10
+None,Yeah,Nope,1,$,4,Burger,0-10
+Some,Yeah,Yeah,1,$,3,Burger,0-10
+None,Yeah,Yeah,1,$,3,Thai,0-10
+Some,Nope,Nope,1,$$,4,Thai,0-10
+Full,Yeah,Nope,2,$,4,Burger,>60
